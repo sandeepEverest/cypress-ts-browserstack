@@ -1,0 +1,25 @@
+{
+    "auth": {
+        "username": "sandeep_x9lwrt",
+        "access_key": "a8CEFAeo9DwsCbKj5pez"
+    },
+    "browsers": [
+        {
+            "browser": "chrome",
+            "os": "OS X Catalina",
+            "versions": [
+                "latest"
+            ]
+        }
+    ],
+    "connection_settings": {
+        "local": false
+    },
+    "run_settings": {
+        "cypress_config_file": "./cypress.config.ts",
+        "cypress_version": "10",
+        "project_name": "Cypress-TS-Browserstack",
+        "build_name": "Build no: 1",
+        "parallels": 1
+    }
+}

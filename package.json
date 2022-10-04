@@ -1,0 +1,16 @@
+{
+  "name": "cypress-ts-browserstack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "10.9.0",
+    "typescript": "4.8.4"
+  }
+}
